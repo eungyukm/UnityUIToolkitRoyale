@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+UIToolkitRoyale/[Ll]ibrary/
+UIToolkitRoyale/[Tt]emp/
+UIToolkitRoyale/[Oo]bj/
+UIToolkitRoyale/[Bb]uild/
+UIToolkitRoyale/[Bb]uilds/
+UIToolkitRoyale/[Ll]ogs/
+UIToolkitRoyale/[Mm]emoryCaptures/
